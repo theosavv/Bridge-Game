@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704732564 source:c:\users\sabbi\onedrive\desktop\codeblocks\vap-project-bridge\main.c
+	<stdio.h>
+	<stdbool.h>
+	"project2023a.h"
+
+1704839070 c:\users\sabbi\onedrive\desktop\codeblocks\vap-project-bridge\project2023a.h
+	<string.h>
+
